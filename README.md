@@ -11,4 +11,4 @@ And this specific repository contains documentation about the Fluidsim FESTO sof
 <br/>
 &nbsp;
 
-[![Altium Designer](http://dicer0.com/wp-content/uploads/2023/09/m_FESTO-FluidSIM.gif)](https://dicer0.com/#skills)
+[![FESTO FluidSIM](http://dicer0.com/wp-content/uploads/2023/09/m_FESTO-FluidSIM.gif)](https://dicer0.com/#skills)
