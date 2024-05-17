@@ -11,4 +11,4 @@ And this specific repository contains documentation about the Fluidsim FESTO sof
 <br/>
 &nbsp;
 
-[![FESTO FluidSIM](http://dicer0.com/wp-content/uploads/2024/05/m_FESTOFluidSIM_MkII.gif)](https://dicer0.com/#skills)
+[![FESTO FluidSIM](http://dicer0.com/wp-content/uploads/2024/05/m_FESTOFluidSIM_MarkkII.gif)](https://dicer0.com/#skills)
